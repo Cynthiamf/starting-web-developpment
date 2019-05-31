@@ -1,0 +1,117 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(235, 235, 235);
+}
+
+.en-tête{
+    text-align:center;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: white;
+    color:rgb(130, 125, 125);
+    margin-top:20px;
+    margin-bottom:20px;
+    padding:30px;
+}
+
+.photo{
+    overflow:hidden;
+    border-radius:50%;
+    width:25%;
+    display:block;
+    margin:auto;
+    border:4px #ccc;
+}
+
+h1{
+    color:rgb(237, 69, 72);
+}
+
+.desc{
+    margin-left:30px;
+    margin-right:30px;
+    text-align: justify;
+}
+
+.bouton{
+    padding:10px;
+	background:rgb(237, 69, 72);
+	color:#fff;
+	width:90px;
+    border-radius:5px;
+}
+
+.réseaux{
+    display:flex;
+    justify-content:space-around;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: white;
+    color:#ccc;
+    margin-top:20px;
+    margin-bottom:20px;
+    padding:30px;
+
+}
+
+.puce{
+    font-size: 25px;
+    color:rgb(235, 235, 235);
+}
+
+.facebook{
+    text-align:center;
+    padding:20px;
+    margin:20px;
+}
+
+.linkedin{
+    text-align:center;
+    padding:20px;
+    margin:20px;
+}
+
+.twitter{
+    text-align:center;
+    padding:20px;
+    margin:20px;
+}
+
+.res, .res:link, .res:hover, .res:visited, .res:active{
+    color:#ccc;
+}
+
+.films{
+    text-align:center;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: white;
+    color:rgb(130, 125, 125);
+    margin-top:20px;
+    margin-bottom:20px;
+    padding:30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.groupe{
+    display: flex;
+}
+
+.films h2{
+    font-weight: bold;
+}
+
+.od{
+    width:150px;
+    height: 200px;
+    padding-right:20px;
+}
+
+h3{
+    text-align:center;
+    font-weight: bold;
+}
+
+.texte{
+    text-align: justify;
+}
